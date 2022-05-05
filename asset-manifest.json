@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/gif-expert-app/static/css/main.f6aec5f5.css",
-    "main.js": "/gif-expert-app/static/js/main.6383314b.js",
+    "main.css": "/gif-expert-app/static/css/main.aac75e13.css",
+    "main.js": "/gif-expert-app/static/js/main.843f8f1a.js",
+    "static/media/fondo2.gif": "/gif-expert-app/static/media/fondo2.d6b2cafc75a5dc765d7c.gif",
     "index.html": "/gif-expert-app/index.html",
-    "main.f6aec5f5.css.map": "/gif-expert-app/static/css/main.f6aec5f5.css.map",
-    "main.6383314b.js.map": "/gif-expert-app/static/js/main.6383314b.js.map"
+    "main.aac75e13.css.map": "/gif-expert-app/static/css/main.aac75e13.css.map",
+    "main.843f8f1a.js.map": "/gif-expert-app/static/js/main.843f8f1a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6aec5f5.css",
-    "static/js/main.6383314b.js"
+    "static/css/main.aac75e13.css",
+    "static/js/main.843f8f1a.js"
   ]
 }
